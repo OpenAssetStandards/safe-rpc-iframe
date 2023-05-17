@@ -2,8 +2,8 @@ lockfileVersion: '6.0'
 
 dependencies:
   safe-rpc:
-    specifier: ^0.1.7
-    version: 0.1.7
+    specifier: ^0.1.8
+    version: 0.1.8
 
 devDependencies:
   '@types/jest':
@@ -3042,8 +3042,8 @@ packages:
       queue-microtask: 1.2.3
     dev: true
 
-  /safe-rpc@0.1.7:
-    resolution: {integrity: sha512-eHXdWoXUIWbiJ50mLIiMBJ8dwWpNjR9f0fqoKnRPJ+3uvxNnXmzDIwUi5VVeMO/edfxdtqGH1UvKiqYWGAZiEw==}
+  /safe-rpc@0.1.8:
+    resolution: {integrity: sha512-/BkFiajlDCQ3M0LAoqsgAWJohBg9jXkVG6Ezv5kKnTnWMA7ow6hcIBXM4SfVwAMzDFWVdMDvZaazrufOlif1BQ==}
     dev: false
 
   /scule@1.0.0:

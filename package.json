@@ -1,6 +1,6 @@
 {
   "name": "safe-rpc-iframe",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "Safe and easy cross-domain iframe communication",
   "repository": "OpenAssetStandards/safe-rpc",
   "license": "MIT",
@@ -55,6 +55,6 @@
   },
   "packageManager": "pnpm@8.4.0",
   "peerDependencies": {
-    "safe-rpc": "^0.1.7"
+    "safe-rpc": "^0.1.8"
   }
 }
